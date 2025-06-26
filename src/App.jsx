@@ -4,6 +4,7 @@ import gsap from 'gsap'
 import Navbar from './Component/Navbar'
 import Hero from './Component/Hero'
 import Cocktails from './Component/Cocktails'
+import About from './Component/About'
 
 
 
@@ -16,6 +17,7 @@ const App = () => {
  <Navbar/>
  <Hero/>
 <Cocktails/>
+<About/>
   </main>
   )
 }
