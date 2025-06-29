@@ -7,6 +7,7 @@ import Cocktails from './Component/Cocktails'
 import About from './Component/About'
 import Art from './Component/Art'
 import Menu from './Component/Menu'
+import Contact from './Component/Contact'
 
 
 
@@ -22,6 +23,7 @@ const App = () => {
 <About/>
 <Art/>
 <Menu/>
+<Contact/>
   </main>
   )
 }
