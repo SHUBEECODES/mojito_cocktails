@@ -5,6 +5,8 @@ import Navbar from './Component/Navbar'
 import Hero from './Component/Hero'
 import Cocktails from './Component/Cocktails'
 import About from './Component/About'
+import Art from './Component/Art'
+import Menu from './Component/Menu'
 
 
 
@@ -18,6 +20,8 @@ const App = () => {
  <Hero/>
 <Cocktails/>
 <About/>
+<Art/>
+<Menu/>
   </main>
   )
 }
